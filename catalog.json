@@ -1,0 +1,58 @@
+[
+    {
+        "imgUrl": "/product_1.jpg",
+        "name": "Sneakers",
+        "price": 25,
+        "category": null,
+        "id": "p1"
+    },
+    {
+        "imgUrl": "/product_2.jpg",
+        "name": "Backpack",
+        "price": 35,
+        "category": 2,
+        "id": "p2"
+    },
+    {
+        "imgUrl": "/product_3.jpg",
+        "name": "Koffee",
+        "price": 5,
+        "category": 1,
+        "id": "p3"
+    },
+    {
+        "imgUrl": "/product_4.jpg",
+        "name": "Koffe machine",
+        "price": 25,
+        "category": null,
+        "id": "p4"
+    },
+    {
+        "imgUrl": "/product_5.jpg",
+        "name": "Kick scooter",
+        "price": 250,
+        "category": 3,
+        "id": "p5"
+    },
+    {
+        "imgUrl": "/product_6.jpg",
+        "name": "Glasses",
+        "price": 45,
+        "category": null,
+        "id": "p6"
+    },
+    {
+        "imgUrl": "/product_7.jpg",
+        "name": "Notebook",
+        "price": 500,
+        "category": null,
+        "id": "p7"
+    },
+    {
+        "imgUrl": "/product_8.jpg",
+        "name": "Watches",
+        "price": 90,
+        "category": 2,
+        "id": "p8"
+    }
+]
